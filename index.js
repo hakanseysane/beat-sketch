@@ -102,4 +102,4 @@ const input = [
 ];
 
 input.forEach(data => addPhase(track, data));
-writeMidiFile(track, "files/out.midi");
+writeMidiFile(track, "out/out.midi");
