@@ -1,0 +1,17 @@
+{
+    "name": "beat-sketch",
+    "version": "1.0.0",
+    "description": "A quick music structure sketching tool that facilitates pre-production planning by defining song sections, tempos, and time signatures.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "midi-writer-js": "^2.1.4"
+    }
+  }
+  
